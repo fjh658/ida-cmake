@@ -5,6 +5,10 @@ This repository holds CMake build scripts and a Python helper allowing
 compilation of C++ IDA plugins for Windows, macOS and Linux without
 much user effort.
 
+## changelist:
+
+1. Add support hexrayssdk compile include path.
+
 ## Simple plugin example usage:
 
 ##### Create plugin repo
